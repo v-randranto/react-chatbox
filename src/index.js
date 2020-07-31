@@ -1,13 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import './index.css';
 import App from './App';
 import Connexion from './components/Connexion';
+import NotFound from './components/NotFound';
 import * as serviceWorker from './serviceWorker';
+
+const Root = () => {
+  return (
+    <BrowserRouter>
+      <Switch>
+        {/* <Route exact path="/" component={Connexion}/>
+        <Route path="/pseudo/:pseudo" component={App}/>
+        <Route component={NotFound}/> */}
+        <Route exact path="/"><Connexion /></Route>
+        <Route path="/pseudo/:pseudo"><App /></Route>
+        <Route ><NotFound /></Route>
+      </Switch>        
+    </BrowserRouter>
+  )
+}
 
 ReactDOM.render(
   <React.StrictMode>
-    <Connexion />
+    <Root />
   </React.StrictMode>,
   document.getElementById('root')
 );
