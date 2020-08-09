@@ -11,12 +11,12 @@ const Root = () => {
   return (
     <BrowserRouter>
       <Switch>
-        {/* <Route exact path="/" component={Connexion}/>
+        <Route exact path="/" component={Connexion}/>
         <Route path="/pseudo/:pseudo" component={App}/>
-        <Route component={NotFound}/> */}
-        <Route exact path="/"><Connexion /></Route>
+        <Route component={NotFound}/>
+        {/* <Route exact path="/"><Connexion /></Route>
         <Route path="/pseudo/:pseudo"><App /></Route>
-        <Route ><NotFound /></Route>
+        <Route ><NotFound /></Route> */}
       </Switch>        
     </BrowserRouter>
   )
