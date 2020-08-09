@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/v-randranto/react-chatbox/static/css/main.c3c3f65a.chunk.css",
-    "main.js": "/v-randranto/react-chatbox/static/js/main.a396e710.chunk.js",
-    "main.js.map": "/v-randranto/react-chatbox/static/js/main.a396e710.chunk.js.map",
-    "runtime-main.js": "/v-randranto/react-chatbox/static/js/runtime-main.3fa4a193.js",
-    "runtime-main.js.map": "/v-randranto/react-chatbox/static/js/runtime-main.3fa4a193.js.map",
-    "static/js/2.b703720c.chunk.js": "/v-randranto/react-chatbox/static/js/2.b703720c.chunk.js",
-    "static/js/2.b703720c.chunk.js.map": "/v-randranto/react-chatbox/static/js/2.b703720c.chunk.js.map",
-    "index.html": "/v-randranto/react-chatbox/index.html",
-    "precache-manifest.4c790feed843f048f134f9ddccabbd79.js": "/v-randranto/react-chatbox/precache-manifest.4c790feed843f048f134f9ddccabbd79.js",
-    "service-worker.js": "/v-randranto/react-chatbox/service-worker.js",
-    "static/css/main.c3c3f65a.chunk.css.map": "/v-randranto/react-chatbox/static/css/main.c3c3f65a.chunk.css.map",
-    "static/js/2.b703720c.chunk.js.LICENSE.txt": "/v-randranto/react-chatbox/static/js/2.b703720c.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/react-chatbox/static/css/main.c3c3f65a.chunk.css",
+    "main.js": "/github.io/react-chatbox/static/js/main.598d8b7f.chunk.js",
+    "main.js.map": "/github.io/react-chatbox/static/js/main.598d8b7f.chunk.js.map",
+    "runtime-main.js": "/github.io/react-chatbox/static/js/runtime-main.fc35df5d.js",
+    "runtime-main.js.map": "/github.io/react-chatbox/static/js/runtime-main.fc35df5d.js.map",
+    "static/js/2.b703720c.chunk.js": "/github.io/react-chatbox/static/js/2.b703720c.chunk.js",
+    "static/js/2.b703720c.chunk.js.map": "/github.io/react-chatbox/static/js/2.b703720c.chunk.js.map",
+    "index.html": "/github.io/react-chatbox/index.html",
+    "precache-manifest.2a549d6f8b195c67f17d27db172a2036.js": "/github.io/react-chatbox/precache-manifest.2a549d6f8b195c67f17d27db172a2036.js",
+    "service-worker.js": "/github.io/react-chatbox/service-worker.js",
+    "static/css/main.c3c3f65a.chunk.css.map": "/github.io/react-chatbox/static/css/main.c3c3f65a.chunk.css.map",
+    "static/js/2.b703720c.chunk.js.LICENSE.txt": "/github.io/react-chatbox/static/js/2.b703720c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fa4a193.js",
+    "static/js/runtime-main.fc35df5d.js",
     "static/js/2.b703720c.chunk.js",
     "static/css/main.c3c3f65a.chunk.css",
-    "static/js/main.a396e710.chunk.js"
+    "static/js/main.598d8b7f.chunk.js"
   ]
 }
